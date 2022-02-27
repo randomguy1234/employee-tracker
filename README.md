@@ -12,6 +12,7 @@ database, or delete info from the database.
 
 ## Project Files
 - db directory (location of 2 sql files: schema.sql and seeds.sql)
+- lib directory (location of sql queries named after the 3 tables)
 - index.js (the main file running the application)
 - .gitignore
 - this readme file
